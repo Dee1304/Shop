@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "255376113797",
+    "firebase_url": "https://fir-tu-a5791-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fir-tu-a5791",
+    "storage_bucket": "fir-tu-a5791.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255376113797:android:fa7d1a5044489a174ae9ec",
+        "android_client_info": {
+          "package_name": "com.example.firebasetu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255376113797-n97os8ha1iakkm0fb34qhib1ulnth8o2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuVN6amZ88pUoke3w5Oe4uSx522B0B7rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255376113797-n97os8ha1iakkm0fb34qhib1ulnth8o2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255376113797:android:06e6cee26c025a5c4ae9ec",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255376113797-n97os8ha1iakkm0fb34qhib1ulnth8o2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuVN6amZ88pUoke3w5Oe4uSx522B0B7rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255376113797-n97os8ha1iakkm0fb34qhib1ulnth8o2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255376113797:android:5cfd2465e57533104ae9ec",
+        "android_client_info": {
+          "package_name": "com.example.shopapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255376113797-n97os8ha1iakkm0fb34qhib1ulnth8o2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuVN6amZ88pUoke3w5Oe4uSx522B0B7rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255376113797-n97os8ha1iakkm0fb34qhib1ulnth8o2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
